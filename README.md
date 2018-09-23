@@ -9,4 +9,4 @@ HTML5, CSS3, jQuery
 Bootstrap
 
 # Responsive Website
-https://s.codepen.io/elaintran/debug/bxvvGo/YvAgOnLDNemA
+https://codepen.io/elaintran/full/bxvvGo/
