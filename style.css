@@ -243,6 +243,7 @@ iframe {
     border: 2px solid black;
     height: 350px;
     width: 90%;
+    margin: auto;
 }
 
 .title h2 {
@@ -348,13 +349,12 @@ footer {
   }
   .buttons {
     font-size: 15px;
-    margin-bottom: 10px; 
   }
   .feature-icon {
     padding: 5% 0;
   }
   .buttons {
-    bottom: -5px;
+    bottom: 0px;
   }
 }
 
@@ -405,6 +405,7 @@ footer {
   .buttons {
     border-width: 1px;
     font-size: 15px;
+    bottom: 0px;
   }
   .feature-icon .fa, .feature-icon .far {
     font-size: 50px;
